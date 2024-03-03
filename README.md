@@ -1,0 +1,2 @@
+# Serendipity.
+Serendipity博客
